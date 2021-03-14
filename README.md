@@ -7,3 +7,6 @@
 
 详情：
 https://baichuan2077.top/2021/01/28/cong-ling-kai-shi-shi-yong-esp8266-blinker-shi-xian-xiao-ai-tong-xue-ke-kong-ke-du-qu-zhuang-tai-de-duo-lu-cha-zuo/
+
+
+项目有问题，请直接复制源代码-21/3/14
